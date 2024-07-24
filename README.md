@@ -4,6 +4,8 @@ After cloning repository, open the project with VSCode and run the following com
 
 ```bash
 npm install
+# or
+yarn install
 ```
 
 Run the development server:
