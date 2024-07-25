@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function C() {
+export default function CounterPage() {
   return (
     <div>
       <p>Counter: 0</p>
